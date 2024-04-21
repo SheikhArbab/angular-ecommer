@@ -1,0 +1,9 @@
+<p>products works!</p>
+
+
+<ul class="d-flex align-item-center justify-content-between flex-wrap gap-2 w-100">
+    <li *ngFor="let product of products" class="w-25 h-25">
+        {{product.title}}
+        <img src={{product.image}} alt="" class="w-100 h-100 object-contain">
+    </li>
+</ul>

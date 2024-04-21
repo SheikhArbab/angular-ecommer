@@ -1,0 +1,40 @@
+{
+  "seller": [
+    {
+      "id": "df86",
+      "name": "arbab",
+      "email": "arbabzafar4444@gmail.com",
+      "password": "dsdf"
+    },
+    {
+      "id": "7c3d",
+      "name": "arbab",
+      "email": "arbabzafar4444@gmail.com",
+      "password": "asdfdf"
+    },
+    {
+      "id": "8dc6",
+      "name": "arbab",
+      "email": "arbabzafar4444@gmail.com",
+      "password": "addf"
+    },
+    {
+      "id": "1ed8",
+      "name": "arbab",
+      "email": "arbabzafar4444@gmail.com",
+      "password": "arbab"
+    },
+    {
+      "id": "d453",
+      "name": "arbab",
+      "email": "zafajk",
+      "password": "jadklfjadklsj"
+    },
+    {
+      "id": "a53e",
+      "name": "arbab",
+      "email": "arbabzafar4444@gmail.com",
+      "password": "arbab"
+    }
+  ]
+}
